@@ -1,5 +1,7 @@
 # Báo cáo Đồ án Nhóm: Hệ thống RAG Pháp luật Ma tuý
 
+WEB: https://franklin-several-shore-assure.trycloudflare.com/
+
 ## Danh sách thành viên và Phân công nhiệm vụ
 
 Đồ án được thực hiện bởi nhóm gồm 6 thành viên. Các công việc trong quá trình xây dựng RAG Pipeline được phân chia đều đặn nhằm tối ưu thế mạnh của từng cá nhân.
